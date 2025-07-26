@@ -12,4 +12,4 @@
   <img aling="center" alt="Rafa-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-![Snake](https://raw.githubusercontent.com/Layon-Guedes/Layon-Guedes/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Layon-Guedes/Layon-Guedes/output/github-contribution-grid-snake-custom.svg)
