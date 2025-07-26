@@ -11,3 +11,5 @@
   <img aling="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img aling="center" alt="Rafa-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+
+![Snake animation](https://github.com/Layon-Guedes/Layon-Guedes/blob/output/github-contribution-grid-snake.svg)
